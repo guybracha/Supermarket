@@ -1,0 +1,27 @@
+Products:
+milk
+Customers:
+arthur
+Orders:
+Cashiers:
+Shift Managers:
+Head Manager:
+Head Manager Name
+Customer: haim
+Order ID: 1
+Products:
+- tomato
+- milk
+
+Customer: GUY
+Order ID: 1
+Products:
+- burgul
+
+Customer: menachem
+Order ID: 1
+Products:
+- hummus
+- hummus
+- milk
+
